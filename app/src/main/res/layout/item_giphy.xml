@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="item"
+            type="marine.josep.androidinterviewexercise.model.GiphyModel" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <marine.josep.androidinterviewexercise.utils.GridViewItem
+            style="@style/gridview_gif_item"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:giphyModel="@{item}"/>
+    </LinearLayout>
+
+</layout>

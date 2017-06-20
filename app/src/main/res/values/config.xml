@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="giphy_root">http://api.giphy.com/v1/gifs/</string>
+    <!-- TODO Change key for production -->
+    <string name="giphy_key">dc6zaTOxFJmzC</string>
+
+</resources>
