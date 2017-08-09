@@ -1,4 +1,4 @@
-package marine.josep.androidinterviewexercise.service;
+package marine.josep.trendinggifs.service;
 
 import android.content.Context;
 import android.support.v7.app.AlertDialog;
@@ -25,9 +25,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import marine.josep.androidinterviewexercise.R;
-import marine.josep.androidinterviewexercise.model.GiphyModel;
-import marine.josep.androidinterviewexercise.request.MyRequestQueue;
+import marine.josep.trendinggifs.R;
+import marine.josep.trendinggifs.model.GiphyModel;
+import marine.josep.trendinggifs.request.MyRequestQueue;
 
 public class GiphyService {
 

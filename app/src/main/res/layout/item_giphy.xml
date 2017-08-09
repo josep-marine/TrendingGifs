@@ -6,14 +6,14 @@
 
         <variable
             name="item"
-            type="marine.josep.androidinterviewexercise.model.GiphyModel" />
+            type="marine.josep.trendinggifs.model.GiphyModel" />
     </data>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <marine.josep.androidinterviewexercise.utils.GridViewItem
+        <marine.josep.trendinggifs.utils.GridViewItem
             style="@style/gridview_gif_item"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

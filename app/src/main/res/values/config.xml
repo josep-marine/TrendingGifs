@@ -2,7 +2,6 @@
 <resources>
 
     <string name="giphy_root">http://api.giphy.com/v1/gifs/</string>
-    <!-- TODO Change key for production -->
-    <string name="giphy_key">dc6zaTOxFJmzC</string>
+    <string name="giphy_key"><!-- TODO --></string>
 
 </resources>

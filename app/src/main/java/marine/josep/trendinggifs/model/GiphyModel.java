@@ -1,4 +1,4 @@
-package marine.josep.androidinterviewexercise.model;
+package marine.josep.trendinggifs.model;
 
 public class GiphyModel {
 

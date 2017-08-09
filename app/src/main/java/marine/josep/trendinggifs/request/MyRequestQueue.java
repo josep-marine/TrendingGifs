@@ -1,4 +1,4 @@
-package marine.josep.androidinterviewexercise.request;
+package marine.josep.trendinggifs.request;
 
 import android.content.Context;
 

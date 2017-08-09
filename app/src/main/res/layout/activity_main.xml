@@ -6,7 +6,7 @@
 
         <variable
             name="giphyListViewModel"
-            type="marine.josep.androidinterviewexercise.viewmodel.GiphyListViewModel" />
+            type="marine.josep.trendinggifs.viewmodel.GiphyListViewModel" />
     </data>
 
     <GridView

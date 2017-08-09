@@ -1,8 +1,8 @@
-package marine.josep.androidinterviewexercise.viewmodel;
+package marine.josep.trendinggifs.viewmodel;
 
 import android.databinding.ObservableArrayList;
 
-import marine.josep.androidinterviewexercise.model.GiphyModel;
+import marine.josep.trendinggifs.model.GiphyModel;
 
 public class GiphyListViewModel {
 

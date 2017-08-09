@@ -1,4 +1,4 @@
-package marine.josep.androidinterviewexercise.activity;
+package marine.josep.trendinggifs.activity;
 
 import android.content.res.Configuration;
 import android.databinding.DataBindingUtil;
@@ -12,11 +12,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import marine.josep.androidinterviewexercise.R;
-import marine.josep.androidinterviewexercise.databinding.ActivityMainBinding;
-import marine.josep.androidinterviewexercise.model.GiphyModel;
-import marine.josep.androidinterviewexercise.service.GiphyService;
-import marine.josep.androidinterviewexercise.viewmodel.GiphyListViewModel;
+import marine.josep.trendinggifs.R;
+import marine.josep.trendinggifs.databinding.ActivityMainBinding;
+import marine.josep.trendinggifs.model.GiphyModel;
+import marine.josep.trendinggifs.service.GiphyService;
+import marine.josep.trendinggifs.viewmodel.GiphyListViewModel;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package marine.josep.androidinterviewexercise.binder;
+package marine.josep.trendinggifs.binder;
 
 import android.databinding.BindingAdapter;
 import android.widget.GridView;
@@ -6,9 +6,9 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
 
-import marine.josep.androidinterviewexercise.adapter.GiphyGridAdapter;
-import marine.josep.androidinterviewexercise.model.GiphyModel;
-import marine.josep.androidinterviewexercise.viewmodel.GiphyListViewModel;
+import marine.josep.trendinggifs.adapter.GiphyGridAdapter;
+import marine.josep.trendinggifs.model.GiphyModel;
+import marine.josep.trendinggifs.viewmodel.GiphyListViewModel;
 
 //This class contains all custom bindings. Android only identifies them by the parameters.
 

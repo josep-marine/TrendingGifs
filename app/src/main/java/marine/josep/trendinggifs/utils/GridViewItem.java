@@ -1,4 +1,4 @@
-package marine.josep.androidinterviewexercise.utils;
+package marine.josep.trendinggifs.utils;
 
 import android.content.Context;
 import android.util.AttributeSet;

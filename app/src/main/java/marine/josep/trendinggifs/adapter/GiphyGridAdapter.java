@@ -1,4 +1,4 @@
-package marine.josep.androidinterviewexercise.adapter;
+package marine.josep.trendinggifs.adapter;
 
 import android.content.Context;
 import android.databinding.DataBindingUtil;
@@ -7,10 +7,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
-import marine.josep.androidinterviewexercise.R;
-import marine.josep.androidinterviewexercise.databinding.ItemGiphyBinding;
-import marine.josep.androidinterviewexercise.model.GiphyModel;
-import marine.josep.androidinterviewexercise.viewmodel.GiphyListViewModel;
+import marine.josep.trendinggifs.R;
+import marine.josep.trendinggifs.databinding.ItemGiphyBinding;
+import marine.josep.trendinggifs.model.GiphyModel;
+import marine.josep.trendinggifs.viewmodel.GiphyListViewModel;
 
 public class GiphyGridAdapter extends BaseAdapter{
 
