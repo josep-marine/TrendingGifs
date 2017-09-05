@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         activityMainBinding =  DataBindingUtil.setContentView(this, R.layout.activity_main);
 
         Map<String,String> params = new HashMap<>();
-        params.put("limit","20");
+        params.put("limit","10");
 
         GiphyService.getInstance().getList(MainActivity.this, "trending", params, new GiphyService.ResponseListListener() {
             @Override
